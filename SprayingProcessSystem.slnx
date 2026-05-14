@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="SprayingProcessSystem/SprayingProcessSystem.csproj" />
+  <Project Path="System.BLL/System.BLL.csproj" />
+  <Project Path="System.DAL/System.DAL.csproj" />
+  <Project Path="System.Helper/System.Helper.csproj" />
+  <Project Path="System.Model/System.Model.csproj" />
+</Solution>

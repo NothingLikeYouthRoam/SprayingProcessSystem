@@ -10,3 +10,6 @@ packages/
 
 ## 数据库
 *.db
+
+## Claude Code
+.claude/
