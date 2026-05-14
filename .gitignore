@@ -1,0 +1,12 @@
+## 编译产物和依赖
+bin/
+obj/
+packages/
+
+## IDE 配置
+.vs/
+*.user
+*.suo
+
+## 数据库
+*.db
